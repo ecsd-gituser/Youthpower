@@ -9,7 +9,7 @@ window.onload = function() {
         openWindow("Impact Testing", "www.impacttestonline.com/htmlcc/");
     };
     document.querySelector('#powerschool').onclick = function() {
-        openWindow("Powerschool", "ps.eagleschools.net");
+        openWindow("Powerschool", "eagleschools.powerschool.com/public/");
     };
     document.querySelector('#frl').onclick = function() {
         openWindow("School Cafe Registration", "www.schoolcafe.com/EagleCountySD");
