@@ -21,7 +21,7 @@ window.onload = function() {
         openWindow("Returning Student Registration", "secure.infosnap.com/family/gosnap.aspx?action=33438&culture=en");
     };
     document.querySelector('#yp365').onclick = function() {
-        openWindow("YP365 Registration", "youthpower365.ce.eleyo.com");
+        openWindow("YP365 Registration", "youthpower365.org");
     };
     document.querySelector('#smarttag').onclick = function() {
         openWindow("SmartTag Registration", "parent.smart-tag.net");
