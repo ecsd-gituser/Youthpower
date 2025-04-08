@@ -38,6 +38,6 @@ window.onload = function() {
 };
 
 function openWindow(title, url) {
-    // Open the link in a new tab
-    window.open("https://" + url, '_blank');
+    // Open the link in a same window
+     window.location.href = "https://" + url;
 }
