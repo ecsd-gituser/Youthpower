@@ -35,6 +35,10 @@ window.onload = function() {
     document.querySelector('#bessparent').onclick = function() {
         openWindow("BESSparent", "review360connect.com/Prod/EagleCountySchoolDistrict/Parent");
     };
+    document.querySelector('#gmail').onclick = function() {
+    openWindow("Gmail", "mail.google.com");
+    };
+
 };
 
 function openWindow(title, url) {
